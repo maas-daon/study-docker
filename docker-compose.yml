@@ -1,0 +1,5 @@
+test:
+  image: maas-daon/test
+  ports:
+    - "10080:80"
+
